@@ -1,0 +1,6 @@
+To use this code you need to add an environment
+variable which has to be the folder where the executable
+of the program you want to launch is,
+Note that if you add the program's shortcut 
+folder the program won't open as it has to be the folder 
+where the main executable is located
